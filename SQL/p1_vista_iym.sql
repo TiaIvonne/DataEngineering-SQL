@@ -30,7 +30,7 @@ ORDER BY
 	
 
 	
--- COMPROBACION
+-- Consultar la vista
 	
 SELECT * FROM VW_PRECIO_CATEGORIAS;
 
