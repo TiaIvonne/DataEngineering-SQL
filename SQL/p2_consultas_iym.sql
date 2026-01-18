@@ -1,4 +1,4 @@
-/* Consultas para la base de datos empresa parte 2
+/* Consultas y soluciones ara la base de datos empresa parte 2
 Nombre: Ivonne Mendoza
 mail: ivonne@imendoza.io
 */

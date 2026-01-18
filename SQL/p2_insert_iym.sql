@@ -15,7 +15,7 @@ select * from EMPLEADO e;
 
 
 -- =====================================================
--- 1. INSERTAR DEPARTAMENTOS GENERADI CIN CURSOR AI
+-- 1. INSERTAR DEPARTAMENTOS GENERADos CON CURSOR AI
 -- =====================================================
 
 INSERT INTO DEPARTAMENTO (codDepto, nombreDpto, Ciudad, codDirector) VALUES

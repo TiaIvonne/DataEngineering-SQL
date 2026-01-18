@@ -47,6 +47,7 @@ CREATE TABLE EMPLEADO (
         ON UPDATE CASCADE
 );
 
+-- Descripcion de tablas ya creadas
 DESCRIBE DEPARTAMENTO;
 DESCRIBE EMPLEADO;
 
