@@ -1,4 +1,4 @@
-/* Crear procedimiento ALMACENADO para mostrar el precio medio de Productos por Categoria
+/* Crear procedimiento almacenado para mostrar el precio medio de Productos por Categoria
 Nombre: Ivonne Mendoza
 mail: ivonne@imendoza.io
 */

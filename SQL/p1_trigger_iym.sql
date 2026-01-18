@@ -1,4 +1,4 @@
-/* Creacion de triggers para la tabla FACTURA y DETALLE_FACTURA
+/* Creacion de triggers para las tablas FACTURA y DETALLE_FACTURA
 Nombre: Ivonne Mendoza
 mail: ivonne@imendoza.io
 */
